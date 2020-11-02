@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. Rice
+2. Tennis
+3. Football
+   1. volleyball
+   2. basketball
